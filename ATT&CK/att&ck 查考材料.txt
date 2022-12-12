@@ -1,0 +1,76 @@
+https://mp.weixin.qq.com/s/bEUGuEQDuxVVi7f6mfnuTQ
+https://www.freebuf.com/sectool/122779.html
+http://www.myzaker.com/article/5c341b2677ac64669d4e6032/
+
+
+https://github.com/baronpan/SysmonHunter
+
+
+ATT&CK 还囊括了 91 个黑客组织和其发起攻击时常用的 397 个工具以及 50 种信息收集数据源的梳理，同时 ATT&CK 还梳理了这些不同的黑客组织攻击的行业和组织类型
+
+
+
+https://medium.com/mitre-attack/getting-started-with-attack-detection-a8e49e4960d0 （引用）
+查看att&ck数据源
+https://github.com/mitre-attack/attack-scripts/tree/master/scripts
+
+Windows event logs
+Process command-line parameters
+Process monitoring
+Authentication logs
+Office 365 account logs
+File monitoring
+API monitoring
+SSL/TLS inspection
+DNS records
+Anti-virus
+Web proxy
+Mail server
+Office 365 trace logs
+Azure activity logs
+OAuth audit logs
+AWS CloudTrail logs
+Azure OS logs
+Stackdriver logs
+AWS OS logs
+Office 365 audit logs
+Application logs
+PowerShell logs
+Web logs
+Web application firewall logs
+Network intrusion detection system
+Network protocol analysis
+Network device logs
+Netflow/Enclave netflow
+Sensor health and status
+Process use of network
+BIOS
+Component firmware
+Packet capture
+Windows Registry
+Services
+Kernel drivers
+MBR
+Email gateway
+DLL monitoring
+Data loss prevention
+Third-party application logs
+Windows Error Reporting
+Asset management
+Binary file metadata
+Loaded DLLs
+Detonation chamber
+System calls
+Browser extensions
+Malware reverse engineering
+User interface
+Environment variable
+Access tokens
+Digital certificate logs
+Disk forensics
+Host network interface
+WMI Objects
+VBR
+Named Pipes
+EFI
+
